@@ -4,7 +4,7 @@ This script will generate `rename-commands` configuration lines (for redis.conf)
 
 ## Uh, why?
 
-Scrambling Redis commands can add a level of security to your Redis instance. Further explanation can be found here.
+Scrambling Redis commands can add a level of security to your Redis instance. Further explanation can be found [here](https://medium.com/@stockholmux/redis-quickie-scramble-and-unscramble-your-commands-in-node-js-1495a5549618).
 
 ## How?
 
